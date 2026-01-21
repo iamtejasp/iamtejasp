@@ -1,22 +1,158 @@
-<h1 align="center">Hi 👋, I'm Tejas Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- Header Section with Dynamic Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tejas%20Patel&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtejasp&label=Profile%20views&color=0e75b6&style=flat" alt="iamtejasp" /> </p>
+<!-- Profile Views Counter and Links -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamtejasp&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.tejaspatel.tech/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:pateltejas5112@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamtejasp" alt="iamtejasp" /></a> </p>
+<!-- Introduction -->
+<div align="center">
+  <h2>💻 Full Stack Web Developer | 🚀 Tech Enthusiast</h2>
+</div>
 
-- 🌱 I’m currently learning **new technology**
+<!-- Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Passionate+Web+Developer;JavaScript+Enthusiast;React+Developer;MERN+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" /></a>
+</div>
 
-- 💬 Ask me about **javascript, react**
+<!-- About Me Section -->
+## 🧠 About Me
 
-<h3 align="left">Connect with me:</h3>
+```javascript
+const tejas = {
+  role: "Software Engineer",
+  currentFocus: [
+    "AI integrations in products",
+    "Building scalable backend APIs",
+    "Micro-SaaS ideas (EdTech + AI)"
+  ],
+  learning: [
+    "System Design",
+    "Advanced Backend (Node.js, Databases, Caching)",
+    "GenAI (LLMs, AI APIs, automation)",
+    "React Native & Expo (production patterns)"
+  ],
+  askMeAbout: [
+    "JavaScript",
+    "React / React Native",
+    "Node.js",
+    "API architecture",
+    "Frontend–Backend integration"
+  ],
+  reachMe: "pateltejas5112@gmail.com",
+  funFact: "I debug with console.log… then refactor like it was planned 😄",
+};
+```
+
+<!-- Tech Stack Section -->
+## 🛠️ My Tech Stack 
+
+<details open>
+<summary><b>Frontend & Mobile Development</b></summary>
+<br>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tejas-patel-63263524a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-patel-63263524a/" height="30" width="40" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
 </p>
+</details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<details>
+<summary><b>Programming Languages</b></summary>
+<br>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-Basics-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-Basics-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+</p>
+</details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtejasp&show_icons=true&locale=en&layout=compact" alt="iamtejasp" /></p>
+<details>
+<summary><b>Backend, APIs & Databases</b></summary>
+<br>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+</p>
+</details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamtejasp&show_icons=true&locale=en" alt="iamtejasp" /></p>
+<details>
+<summary><b>State Management & Networking</b></summary>
+<br>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Apisauce-1E90FF?style=for-the-badge&logo=api&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AsyncStorage-4A90E2?style=for-the-badge&logo=react&logoColor=white" /></a>
+</p>
+</details>
+
+<details>
+<summary><b>Tools, Platforms & DevOps</b></summary>
+<br>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+</p>
+</details>
+
+
+<!-- Projects Section -->
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://www.tejaspatel.tech/">
+    <img src="https://img.shields.io/badge/View_All_Projects-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="All Projects" />
+  </a>
+</div>
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamtejasp&show_icons=true&theme=tokyonight&hide_border=true" alt="Hardik's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtejasp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Hardik's Top Languages" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamtejasp&theme=tokyonight" alt="Activity Graph" />
+</div>
+
+<!-- Connect with me -->
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/iamtejasp/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/iam._.tejas">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
