@@ -128,11 +128,11 @@ const tejas = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamtejasp&show_icons=true&theme=tokyonight&hide_border=true" alt="Hardik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamtejasp&show_icons=true&theme=tokyonight&hide_border=true" alt="Tejas GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtejasp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Hardik's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtejasp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Tejas Top Languages" />
 </div>
 
 <!-- Activity Graph -->
